@@ -1,0 +1,169 @@
+109MAD	109MAD	Madison Building	Division of Public Safety and Security
+300NIB	300 N Ingalls Building	NIB	St. Joseph Mercy Hospital	300NIB	North Ingalls Building	Ingalls
+400NIB	North Campus Family Health	400NIB	SNB	School of Nursing Building
+710FOR	Towsley Children House	710FOR	Towsley
+ACAD	ACAD	Stephen M. Ross Academic Center	Ross Academic Center
+ALUMNI	Alumni Center	Alumni Building
+ANGL	Angell Hall	Angell James B Hall And Tisch Hall	ANGL	Angell
+AOC	Athletic Operations Center	AOC
+ARBLA	ARBL1	Arbor Lakes 1	Ann Arbor Lake 1	Arbor Lakes ARBL2	Arbor Lakes 2	Arbor Lakes 3	ARBL3	Ann Arbor Lake 3
+ARCANX	ARCANX	Student Theatre Arts Complex
+ARG2	Argus Building II	ARG2
+ATHADM	Weidenbach Hall (Administration)	ATHADM	Athletic Ticket Office	Weidenbach	Athletic Administration
+AUXSRV	AUXSRV	Automated and Connected Car Test Site - M City	Main Street	M City Test Site	M-City	MCity
+BARBOUR	Betsy Barbour Residence	Betsy Barbour Residence	BARBOUR	Betsy Barbour
+BEYSTER	BEYSTER	Bob and Betty Beyster Building	BBB
+BLAU	Jeff T. Blau Hall	Computer and Executive Education Building	BLAU
+BOYER	BOYER	Boyer Building
+BUHR	Buhr Building	BUHR
+BURNHAM	Reader Center	BURNHAM	Burnham House
+BURS	Bursley Joseph A & Marguerite K Hall	Bursley Hall	BURS	Bursley
+BURTON	BMT	BURTON	Burton Memorial Tower	Burton Tower
+CANHAM	Canham Donald B Natatorium	Canham Natatorium	CANHAM
+CCRB	CCRB	Central Campus Recreation Building
+CHRY	CHRY	Chrysler Center	Chrysler
+CLEM	William L. Clements Library	CLEM	Clements William Library	Clements Library
+COLISEUM	University of Michigan-Sports Coliseum	Sports Coliseum	COLISEUM
+COUZ	Couzens Hall	COUZ	Couzens
+CPP	Central Power Plant	CPP
+CRIS	CRIS	Crisler Center	Crisler
+DANA	Dana Samuel Trask Building	Samuel Trask Dana Natural Resources Building	DANA	Environment and Sustainability Building
+DANCE	CCRB	Central Campus Recreation Building	CCRB Dance Studio	Dance Studio
+DC	Duderstadt Center	DC	The Dude	Duderstadt James And Anne Center	Duderstadt Library	Duderstadt
+EHALL	EHALL	East Hall	EH
+ERB	ERB1	ERB2	Engineering Research Building II	Engineering Research Building 1	ERB1	2355b Bonisteel Blvd (laboratory)
+FISHER	Ray Fisher Stadium	Fisher Ray Baseball Stadium	FISHER	Baseball Stadium	Baseball
+FLDHKY	FLDHKY	Ocker Field	Michigan Field Hockey	Field Hockey
+FLEM	Fleming Robben W & Aldyth Administration Building	Fleming Building	Fleming Administration Building	FLEM	Fleming
+FLETCH	Fletcher Hall	FLETCH	Fletcher
+GERS	Carl A. Gerstacker Building	Gerstacker Building	GERS	Gerstacker
+GLICK	Glick Field House	Al Glick Field House (football)	GLICK	Glick
+GOLF	Golf Clubhouse	GOLF	University of Michigan Golf Course
+GYMN	Donald R. Shepherd Women's Gymnastic Center	UM Gymnastics Center	GYMN	Gymnastics
+HART	HART	Marie Hartwig Building (Ticket Office)	Hartwig Administration Bldg	Hartwig
+HATCH	Hatcher Graduate Library	HATCHN	 Hatcher Harlan H South Graduate Library	Hatcher
+HAVEN	HH	Angell James B Hall And Tisch Hall	Haven Hall	Haven Building	Haven Complex
+HENDERSON	HENDERSON	Henderson House
+HILL	Hill Auditorium
+HOOVA	Faculty Service Building	HOOVA
+HOOVER	HOOVB	Student Theatre Arts Complex	HOOVC
+HSVC	HSVC	Health Service	University Health Service	UHS
+HUTCH	HUTCH	Hutchins Hall	Hutchins
+ICLE	Institute Of Continuing Legal Ed	The Institute of Continuing Legal Education	ICLE
+IM	Intramural Sports Building	IMSB	IM Building
+ISR	Institute for Social Research	Institute For Social Research	ISR
+JUNGE	Junge Family Champions Center	Junge Family Champions Center & Mortenson Plaza	JUNGE
+KEEN	KEEN	Cliff Keen Arena	Keen Clifford P Arena	Cliff Keen
+KELSEY	Kelsey Museum of Archaeology	KELSEY	Museum of Archaeology
+KRESGELIB	Kresge Business Admin Library	Kresge Business Administration Library	KRESGELIB	Business Library	Kresge
+LACROSSE	Indoor Track Building	LACROSSE
+LANE	Lane Hall	LANE
+LBME	Lurie Biomedical Engineering Center	LBME	Lurie Ann And Robert H Biomedical Engineering Bld	Lurie
+LEAGUE	Michigan League	League Building
+LGLRSC	Cook Legal Research Library	Law Library	Hutchins Hall	LGLRSC	LLIB
+LIFSCI	Life Sciences Institute	Life Sciences Institute Building	LIFSCI
+LLOYD	Alice Lloyd Hall	LLOYD	ALH	Lloyd Alice Crocker Hall	Alice Lloyd
+LORCH	Lorch Hall	LORCH
+LQUAD	Lawyer's Club	LQUAD	The Law Quad (John P. Cook Dormitory)	Law Quad
+LSA	LSA Building	LS&A Building	Literature Science and the Arts Building
+MASON	Mason Hall	MASON	MH
+MBG	Bonsai and Penjing Gardens	MBG	Matthaei Botanical Gardens	Botanical Gardens	Matthaei
+MCOOK	Martha Cook Building	Martha Cook	MCOOK
+MLB	Modern Languages Building	Modern Language Bldg	MLB	Modern Languages
+MOJO	Mosher-Jordan Hall	Mojo	MOJO	Mosher-Jordan
+MRKL	Mary Markley Hall	MRKL	Markley Hall	Markley
+MSB	Mosher-Jordan Hall	MSB	Mojo	Mosher-Jordan
+MUNGER	Munger Graduate Residences	MUNGER
+MUSART	Museum of Art	University of Michigan Museum of Art	MUSART
+MUSEUM	Ruthven Building	University of Michigan Museum of Natural History	Ruthven Alexander G Museums Bldg	Ruthven	Natural History Museum
+MUSIC	School of Music	SM	Earl V. Moore Building
+NCCOMM	Pierpont Commons	NCCOMM	Wilbur K Pierpont Commons	Pierpont
+NCSTOR	NCSTOR	U-M Property Disposition	North Campus Storage Building
+NEWB	Helen Newberry Residence	NEWB	Newberry
+NEWS	News Service Building	Michigan News Building	News Building
+NING	NING	300 N Ingalls Building	NIB	St. Joseph Mercy Hospital	North Ingalls Building
+NURS	NURS	School of Nursing
+OBLODGE	Kinesiology Building	OBLODGE	Kinesiology
+OBSERV	Detroit Observatory	OBSERV	Observatory
+PALMER	PALMER	Palmer Commons
+PERRY	Perry Building	PERRY	Inter-University Consortium for Political and Social Research
+PLAYERCTR	William Davidson Player Development Center	PLAYERCTR	Player Development Center
+POUND	Edward Ginsberg Center	Ginsberg Center for Community Service and Learning	POUND
+POWER	Power Center For Performing Arts	Power Center for the Performing Arts	Power Center
+PRES	President's House	President's Residence
+REVELLI	Revelli Hall	Revelli Band Rehearsal Hall	REVELLI
+RNDL	Randall Harrison M Laboratory	Randall Lab	RAND	RNDL	Randall
+ROSS	ROSS	R-BUS	Ross School of Business Building
+SAB	Students Activities Building	SAB
+SAFETY	SAFETY	Campus Safety Services Building	DPS Campus Safety Services Building
+SBALL	Alumni Softball Field	SBALL	Wilpon Baseball and Softball Complex	Softball
+SCHEM	SCHEM	Glenn E. Schembechler Hall	Schembechler Hall	Schembechler
+SHALL	Law School Academic Building	Jeffries Hall	LSSH	SHALL	Jeffries
+SIN	School of Information North	SIN	SI	School of Information
+SOCCER	SOCCER	University of Michigan Soccer Complex	Soccer Stadium
+SQUAD	South Quadrangle	SQUAD	South Quad
+SSW	School of Social Work Building	School of Social Work	SSW	SSWB
+STAD	The Big House	STAD	Michigan Stadium	Stadium
+STEARN	STRNS	STEARN	Stearns Building	Stearns
+STOCK	Stockwell	Stockwell Madelon Louisa Hall	Stockwell
+STUPUB	University of Michigan Office of Student Publications	Student Publications	STUPUB	Stanford Lipsay Student Publications Building	学生出版中心
+TAPPAN	Tappan Hall(Fine Arts Library)	TAPPAN	Tappan Hall
+TENNIS	UM Tennis Center	Tisch Preston Robert Tennis Bld	TENNIS
+THAYER	South Thayer Building	THAYER	202 South Thayer Building
+THOM	THOM	Thompson Structure	W3	Thompson Street Parking Structure	Thompson
+TISCH	Angell Hall	TISCH	Angell James B Hall And Tisch Hall
+TRANSP	Transportation Services Building	TRANSP	Transportation Services
+TROTTER	TROTTER	Trotter William Monroe House	Trotter Multicultural Center
+UGLI	UGLI	Shapiro Harold T And Vivian B Library	Shapiro Undergraduate Library (The UGLI)	The Ugli	Undergraduate Library	Shapiro
+UMTRI	U-M Transportation Research Inst	Transportation Research Institute	UMTRI
+UNYN	UNYN	Michigan Union	North 38th Street	Union
+USB	USB	Undergraduate Science Building
+VARSITY	University of Michigan Varsity Drive Building	UM Research Museums Center
+VAUGHN	VAUGHN	University of Michigan Medical Center	Victor Vaughan	Michigan Medicine
+WALG	WALG	WDC	Walgreen Drama Center	Walgreen	201SDIV Walgreen Center Charles R. Walgreen Jr Drama Center	WDC
+WALLACE	WALLACE	Oxford Road	Wallace Mike and Mary House	Wallace House
+WEILL	Weill Joan & Sanford Hall	Gerald R. Ford School of Public Policy - Weill Hall	WEILL	Ford School
+WEISER	Weiser Hall	WEISER	Dennison Building
+WHALL	WHALL	West Hall	WH
+WOTO	Wolverine Tower	University of Michigan Work Connection	WOTO
+WRESTLING-SOCCER	UM Wrestling Center	Bahna Wrestling Center	WRESTLING-SOCCER	Wrestling
+WYLY	Wyly Hall	WYLY	Wyly Sam Hall	W-BUS
+YOST	Yost Ice Arena	YOST
+1007HURON	LSA Annex, 1007 E Huron St	1007HURON
+AERO	AEROPLASMA	AEROPROP	Aerospace Engineering Lab Plasma Research	Aerospace Engineering
+AEROWTL	Wilson Student Team Project Center	AEROWTL
+ARTARC	Art and Architecture Building	ARTARC	Art and Architecture
+ASB	ASB	Administrative Service Building
+AUTO	Lay Walter E Automotive Engineering Laboratory	AUTO	Automotive Engineering
+BENT	BENT	Bentley Alvin M & Arvella D Historical Library	Bentley	Historical Library
+BIRB	Bonisteel Interdisciplinary Research Building	BIRB
+CCLTL	CCLTL	Clarence Cook Little Building(College Of Pharmacy Building)	CC Little	CCTC	Central Campus Transit Center
+CHEM	Chemistry Building	CHEM	Chemistry
+COOL	Martimer E. Cooley Building	Cooley
+DENT	Dental Faculty Associates	Sindecuse Museum of Dentistry	DENT	Dental	Dentistry
+DOW	Dow Herbert H Building	DOW
+EQUAD	EQUAD	East Quadrangle	East Quad
+EWRE	Environmental And Water Resources Engineering Bl	EWRE	Environmental And Water Resources
+FXB	Francois-Xavier Bagnoud Building	FXB
+GFL	GFL	Engineering Programs Building
+GGBL	George G. (GG) Brown Laboratories	GGBL	GG Brown
+IOE	Industrial And Operations Engineering Building	IOE	Industrial And Operations Engineering	Industrial Engineering	Operations Engineering
+KRAUS	KRAUS	Edward Henry Kraus Building (Natural Science)	Natural Science
+LEC	Robert H. Lurie Engineering Center	LEC	Lurie
+MMPL	MMPL	Michigan Memorial Phoenix Project Laboratory	Phoenix Project
+NAME	Naval Architecture And Marine Engineering	Naval Architecture and Marine Engineering Building
+NCFAM	Northwood Community Center	NCFAM
+NCSW	Engineering Programs Building	NCSW
+NEL	U-M Energy Insititute	NEL	Energy Institute
+NQUAD	North Quadrangle Residential And Academic Complex	NQUAD	North Quad
+NWD	NW1	NW2	NW3 Northwood	Northwood 1	Northwood 2	Northwood 3
+OXHOUS	Oxford Housing	OXEMANUEL	OXGEDDES	Nichols Arboretum Residence	Oxford	OXCHEEVER	OXGODDARD	OXSEELEY	OXVANDEN
+PHARM	College Of Pharmacy Building	PHARM	Pharmacy
+PHYPRO	The Physical Properties Building,Hoover Annex	PHYPRO	Physical Properties
+RACK	Horace H. Rackham School Of Graduate Studies(academic)	Rackham
+SEB	SEB	School of Education
+SPH	SPH1	Henry F. Vaughan School of Public Health I	Public Health	SPH2	School of Public Health II (Francis Thomas Jr Public Health)
+SRB	SRB	Space Research Building
+TRACK	Indoor Track Building	Indoor Track	Track Building
+WQUAD	West Quadrangle	WQUAD	West Quad
+BAITS	Vera Baits Housing	Baits II Ziwet House	ZIWET	Baits	COMAN	Baits II Coman House	Baits II Conger House	CONGER	Baits II Cross House	Baits I	EATON	Baits Vera I Eaton House	Baits II Thieme House	THIEME
