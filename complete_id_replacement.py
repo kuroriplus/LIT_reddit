@@ -29,7 +29,7 @@ def _replace_tokens_with_ids_complete(data, name_id_map):
 
 
 def main():
-    name_id_map = DictListFile.read_from_file("data/reddit/osm_location_names.3.txt")
+    name_id_map = DictListFile.read_from_file("data/reddit/osm_location_names.4.txt")
     tokenized_name_map = {}
     for data_id, names in name_id_map.items():
         if len(names) > 0:

@@ -37,6 +37,15 @@ class DictListFile:
         return d
 
     @classmethod
+    def read_from_csv(cls, filename):
+        d=[]
+        with open(filename, encoding='utf-8', mode='r') as f:
+            for line in f.read().splitlines():
+                parsed_list = line.split(',')
+                d.append(parsed_list)
+        return d
+
+    @classmethod
     def diff(cls, old_file, new_file):
         old_dict = cls.read_from_file(old_file)
         new_dict = cls.read_from_file(new_file)
