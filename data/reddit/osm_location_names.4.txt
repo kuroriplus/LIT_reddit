@@ -28,7 +28,7 @@ COUZ	Couzens Hall	COUZ	Couzens
 CPP	Central Power Plant	CPP
 CRIS	CRIS	Crisler Center	Crisler
 DANA	Dana Samuel Trask Building	Samuel Trask Dana Natural Resources Building	DANA	Environment and Sustainability Building
-DANCE	CCRB	Central Campus Recreation Building	CCRB Dance Studio	Dance Studio
+DANCE	CCRB Dance Studio	Dance Studio
 DC	Duderstadt Center	DC	The Dude	Duderstadt James And Anne Center	Duderstadt Library	Duderstadt
 EHALL	EHALL	East Hall	EH
 ERB	ERB1	ERB2	Engineering Research Building II	Engineering Research Building 1	ERB1	2355b Bonisteel Blvd (laboratory)

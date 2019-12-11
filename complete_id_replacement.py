@@ -49,7 +49,7 @@ def main():
             replaced_data.append({"title": replaced_title, "body": replaced_body, "comments": replaced_comments})
             if i % 1000 == 0:
                 print("{} submissions done", i)
-    with open("data/reddit/replaced_id_complete_submission.pickle", "wb") as data_out:
+    with open("data/reddit/replaced_id_complete_submission_2.pickle", "wb") as data_out:
         pickle.dump(replaced_data, data_out)
 
 
