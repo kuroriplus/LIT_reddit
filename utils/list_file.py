@@ -37,6 +37,15 @@ class DictListFile:
         return d
 
     @classmethod
+    def read_from_file_as_list(cls, filename):
+        d = []
+        with open(filename, encoding='utf-8', mode='r') as f:
+            for line in f.read().splitlines():
+                parsed_list = line.split('\t')
+                d.append(parsed_list)
+        return d
+
+    @classmethod
     def read_from_csv(cls, filename):
         d=[]
         with open(filename, encoding='utf-8', mode='r') as f:
