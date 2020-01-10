@@ -2,7 +2,7 @@ import pickle
 
 
 def main():
-    with open("data/reddit/reddit_model_3.pickle", "rb") as data_in:
+    with open("data/reddit/reddit_model_4.pickle", "rb") as data_in:
         model = pickle.load(data_in)
     poses = [[["DC", "dorm"], ["library"]], [["UGLI", "dorm"], ["library"]], [["HATCH", "dorm"], ["library"]],
              [["BENT", "dorm"], ["library"]],

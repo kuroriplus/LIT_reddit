@@ -3,20 +3,20 @@ import pickle
 
 
 def main():
-    with open("data/reddit/reddit_model_2.pickle", "rb") as data_in:
+    with open("data/reddit/reddit_model_4.pickle", "rb") as data_in:
         model = pickle.load(data_in)
     pairs = [
         ("library", "DC"),
         ("library", "DOW"),
         ("library", "BURS"),
-        ("BURS", "MOJO"),
+        ("BURS", "MSB"),
         ("BURS", "DOW"),
         ("BURS", "UGLI"),
         ("BURS", "BEYSTER"),
         ("dorm", "EQUAD"),
         ("dorm", "BURS"),
         ("dorm", "MUNGER"),
-        ("dorm", "MOJO"),
+        ("dorm", "MSB"),
         ("dorm", "NW3"),
         ("class", "CHEM"),
         ("class", "EECS"),

@@ -1,5 +1,4 @@
 109MAD	109MAD	Madison Building	Division of Public Safety and Security
-300NIB	300 N Ingalls Building	NIB	St. Joseph Mercy Hospital	300NIB	North Ingalls Building	Ingalls
 400NIB	North Campus Family Health	400NIB	SNB	School of Nursing Building
 710FOR	Towsley Children House	710FOR	Towsley
 ACAD	ACAD	Stephen M. Ross Academic Center	Ross Academic Center
@@ -46,7 +45,7 @@ HAVEN	HH	Angell James B Hall And Tisch Hall	Haven Hall	Haven Building	Haven Comp
 HENDERSON	HENDERSON	Henderson House
 HILL	Hill Auditorium
 HOOVA	Faculty Service Building	HOOVA
-HOOVER	HOOVB	Student Theatre Arts Complex	HOOVC
+HOOVER	HOOVB	HOOVC
 HSVC	HSVC	Health Service	University Health Service	UHS
 HUTCH	HUTCH	Hutchins Hall	Hutchins
 ICLE	Institute Of Continuing Legal Ed	The Institute of Continuing Legal Education	ICLE
@@ -56,11 +55,10 @@ JUNGE	Junge Family Champions Center	Junge Family Champions Center & Mortenson Pl
 KEEN	KEEN	Cliff Keen Arena	Keen Clifford P Arena	Cliff Keen
 KELSEY	Kelsey Museum of Archaeology	KELSEY	Museum of Archaeology
 KRESGELIB	Kresge Business Admin Library	Kresge Business Administration Library	KRESGELIB	Business Library	Kresge
-LACROSSE	Indoor Track Building	LACROSSE
 LANE	Lane Hall	LANE
-LBME	Lurie Biomedical Engineering Center	LBME	Lurie Ann And Robert H Biomedical Engineering Bld	Lurie
+LBME	Lurie Biomedical Engineering Center	LBME	Lurie Ann And Robert H Biomedical Engineering Bld
 LEAGUE	Michigan League	League Building
-LGLRSC	Cook Legal Research Library	Law Library	Hutchins Hall	LGLRSC	LLIB
+LGLRSC	Cook Legal Research Library	Law Library LGLRSC	LLIB
 LIFSCI	Life Sciences Institute	Life Sciences Institute Building	LIFSCI
 LLOYD	Alice Lloyd Hall	LLOYD	ALH	Lloyd Alice Crocker Hall	Alice Lloyd
 LORCH	Lorch Hall	LORCH
@@ -70,7 +68,6 @@ MASON	Mason Hall	MASON	MH
 MBG	Bonsai and Penjing Gardens	MBG	Matthaei Botanical Gardens	Botanical Gardens	Matthaei
 MCOOK	Martha Cook Building	Martha Cook	MCOOK
 MLB	Modern Languages Building	Modern Language Bldg	MLB	Modern Languages
-MOJO	Mosher-Jordan Hall	Mojo	MOJO	Mosher-Jordan
 MRKL	Mary Markley Hall	MRKL	Markley Hall	Markley
 MSB	Mosher-Jordan Hall	MSB	Mojo	Mosher-Jordan
 MUNGER	Munger Graduate Residences	MUNGER
@@ -81,7 +78,7 @@ NCCOMM	Pierpont Commons	NCCOMM	Wilbur K Pierpont Commons	Pierpont
 NCSTOR	NCSTOR	U-M Property Disposition	North Campus Storage Building
 NEWB	Helen Newberry Residence	NEWB	Newberry
 NEWS	News Service Building	Michigan News Building	News Building
-NING	NING	300 N Ingalls Building	NIB	St. Joseph Mercy Hospital	North Ingalls Building
+NING	NING	300 N Ingalls Building	NIB	St. Joseph Mercy Hospital	North Ingalls Building  300NIB	Ingalls
 NURS	NURS	School of Nursing
 OBLODGE	Kinesiology Building	OBLODGE	Kinesiology
 OBSERV	Detroit Observatory	OBSERV	Observatory
@@ -111,7 +108,7 @@ TAPPAN	Tappan Hall(Fine Arts Library)	TAPPAN	Tappan Hall
 TENNIS	UM Tennis Center	Tisch Preston Robert Tennis Bld	TENNIS
 THAYER	South Thayer Building	THAYER	202 South Thayer Building
 THOM	THOM	Thompson Structure	W3	Thompson Street Parking Structure	Thompson
-TISCH	Angell Hall	TISCH	Angell James B Hall And Tisch Hall
+TISCH	TISCH	Angell James B Hall And Tisch Hall
 TRANSP	Transportation Services Building	TRANSP	Transportation Services
 TROTTER	TROTTER	Trotter William Monroe House	Trotter Multicultural Center
 UGLI	UGLI	Shapiro Harold T And Vivian B Library	Shapiro Undergraduate Library (The UGLI)	The Ugli	Undergraduate Library	Shapiro
@@ -145,15 +142,14 @@ DOW	Dow Herbert H Building	DOW
 EQUAD	EQUAD	East Quadrangle	East Quad
 EWRE	Environmental And Water Resources Engineering Bl	EWRE	Environmental And Water Resources
 FXB	Francois-Xavier Bagnoud Building	FXB
-GFL	GFL	Engineering Programs Building
 GGBL	George G. (GG) Brown Laboratories	GGBL	GG Brown
 IOE	Industrial And Operations Engineering Building	IOE	Industrial And Operations Engineering	Industrial Engineering	Operations Engineering
 KRAUS	KRAUS	Edward Henry Kraus Building (Natural Science)	Natural Science
-LEC	Robert H. Lurie Engineering Center	LEC	Lurie
+LEC	Robert H. Lurie Engineering Center	LEC
 MMPL	MMPL	Michigan Memorial Phoenix Project Laboratory	Phoenix Project
 NAME	Naval Architecture And Marine Engineering	Naval Architecture and Marine Engineering Building
 NCFAM	Northwood Community Center	NCFAM
-NCSW	Engineering Programs Building	NCSW
+NCSW	Engineering Programs Building	NCSW    GFL
 NEL	U-M Energy Insititute	NEL	Energy Institute
 NQUAD	North Quadrangle Residential And Academic Complex	NQUAD	North Quad
 NWD	NW1	NW2	NW3 Northwood	Northwood 1	Northwood 2	Northwood 3
@@ -167,3 +163,5 @@ SRB	SRB	Space Research Building
 TRACK	Indoor Track Building	Indoor Track	Track Building
 WQUAD	West Quadrangle	WQUAD	West Quad
 BAITS	Vera Baits Housing	Baits II Ziwet House	ZIWET	Baits	COMAN	Baits II Coman House	Baits II Conger House	CONGER	Baits II Cross House	Baits I	EATON	Baits Vera I Eaton House	Baits II Thieme House	THIEME
+PALM    palmer commons  palmer filed    palmer  PALM
+
