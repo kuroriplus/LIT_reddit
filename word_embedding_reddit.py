@@ -9,7 +9,7 @@ def get_model():
     #        model = pickle.load(data_in)
     #        return model
     corpus = []
-    with open("data/reddit/replaced_id_complete_submission_3.pickle", "rb") as data_in:
+    with open("data/reddit/replaced_id_complete_submission_4.pickle", "rb") as data_in:
         data = pickle.load(data_in)
         for submission in data:
             corpus.append(nltk.word_tokenize(submission["title"]))
@@ -17,11 +17,11 @@ def get_model():
             for comment in submission["comments"]:
                 corpus.append(nltk.word_tokenize(comment))
     print("loading corpus complete")
-    model = gensim.models.Word2Vec(corpus, size=35)
+    model = gensim.models.Word2Vec(corpus, min_count=1,window=20) # size
     print("model training complete")
-    with open("data/reddit/reddit_model_4.pickle", "wb") as data_out:
+    with open("data/reddit/reddit_model_windowsize=20.pickle", "wb") as data_out:
         pickle.dump(model, data_out)
-    print("model saved as reddit_model_4.pickle")
+    print("model saved as reddit_model_windowsize=20.pickle")
     return model
 
 

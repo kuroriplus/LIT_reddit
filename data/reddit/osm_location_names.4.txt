@@ -6,7 +6,8 @@ ALUMNI	Alumni Center	Alumni Building
 ANGL	Angell Hall	Angell James B Hall And Tisch Hall	ANGL	Angell
 AOC	Athletic Operations Center	AOC
 ARBLA	ARBL1	Arbor Lakes 1	Ann Arbor Lake 1	Arbor Lakes ARBL2	Arbor Lakes 2	Arbor Lakes 3	ARBL3	Ann Arbor Lake 3
-ARCANX	ARCANX	Student Theatre Arts Complex
+ARCANX	ARCANX
+HOOVER	HOOVB	HOOVC	student theatre arts complex
 ARG2	Argus Building II	ARG2
 ATHADM	Weidenbach Hall (Administration)	ATHADM	Athletic Ticket Office	Weidenbach	Athletic Administration
 AUXSRV	AUXSRV	Automated and Connected Car Test Site - M City	Main Street	M City Test Site	M-City	MCity
@@ -40,14 +41,13 @@ GLICK	Glick Field House	Al Glick Field House (football)	GLICK	Glick
 GOLF	Golf Clubhouse	GOLF	University of Michigan Golf Course
 GYMN	Donald R. Shepherd Women's Gymnastic Center	UM Gymnastics Center	GYMN	Gymnastics
 HART	HART	Marie Hartwig Building (Ticket Office)	Hartwig Administration Bldg	Hartwig
-HATCH	Hatcher Graduate Library	HATCHN	 Hatcher Harlan H South Graduate Library	Hatcher
+HATCH	Hatcher Graduate Library	HATCHN	 Hatcher Harlan H South Graduate Library	Hatcher HATCHS
 HAVEN	HH	Angell James B Hall And Tisch Hall	Haven Hall	Haven Building	Haven Complex
 HENDERSON	HENDERSON	Henderson House
 HILL	Hill Auditorium
 HOOVA	Faculty Service Building	HOOVA
-HOOVER	HOOVB	HOOVC
 HSVC	HSVC	Health Service	University Health Service	UHS
-HUTCH	HUTCH	Hutchins Hall	Hutchins
+HUTCH	HUTCH	Hutchins Hall	Hutchins	LGLRSC	Cook Legal Research Library Law Library LGLRSC	LLIB
 ICLE	Institute Of Continuing Legal Ed	The Institute of Continuing Legal Education	ICLE
 IM	Intramural Sports Building	IMSB	IM Building
 ISR	Institute for Social Research	Institute For Social Research	ISR
@@ -56,9 +56,7 @@ KEEN	KEEN	Cliff Keen Arena	Keen Clifford P Arena	Cliff Keen
 KELSEY	Kelsey Museum of Archaeology	KELSEY	Museum of Archaeology
 KRESGELIB	Kresge Business Admin Library	Kresge Business Administration Library	KRESGELIB	Business Library	Kresge
 LANE	Lane Hall	LANE
-LBME	Lurie Biomedical Engineering Center	LBME	Lurie Ann And Robert H Biomedical Engineering Bld
 LEAGUE	Michigan League	League Building
-LGLRSC	Cook Legal Research Library	Law Library LGLRSC	LLIB
 LIFSCI	Life Sciences Institute	Life Sciences Institute Building	LIFSCI
 LLOYD	Alice Lloyd Hall	LLOYD	ALH	Lloyd Alice Crocker Hall	Alice Lloyd
 LORCH	Lorch Hall	LORCH
@@ -77,7 +75,6 @@ MUSIC	School of Music	SM	Earl V. Moore Building
 NCCOMM	Pierpont Commons	NCCOMM	Wilbur K Pierpont Commons	Pierpont
 NCSTOR	NCSTOR	U-M Property Disposition	North Campus Storage Building
 NEWB	Helen Newberry Residence	NEWB	Newberry
-NEWS	News Service Building	Michigan News Building	News Building
 NING	NING	300 N Ingalls Building	NIB	St. Joseph Mercy Hospital	North Ingalls Building  300NIB	Ingalls
 NURS	NURS	School of Nursing
 OBLODGE	Kinesiology Building	OBLODGE	Kinesiology
@@ -100,10 +97,9 @@ SIN	School of Information North	SIN	SI	School of Information
 SOCCER	SOCCER	University of Michigan Soccer Complex	Soccer Stadium
 SQUAD	South Quadrangle	SQUAD	South Quad
 SSW	School of Social Work Building	School of Social Work	SSW	SSWB
-STAD	The Big House	STAD	Michigan Stadium	Stadium
 STEARN	STRNS	STEARN	Stearns Building	Stearns
 STOCK	Stockwell	Stockwell Madelon Louisa Hall	Stockwell
-STUPUB	University of Michigan Office of Student Publications	Student Publications	STUPUB	Stanford Lipsay Student Publications Building	学生出版中心
+STUPUB	University of Michigan Office of Student Publications	Student Publications	STUPUB	Stanford Lipsay Student Publications Building	学生出版中心 	News Service Building	Michigan News Building	News Building
 TAPPAN	Tappan Hall(Fine Arts Library)	TAPPAN	Tappan Hall
 TENNIS	UM Tennis Center	Tisch Preston Robert Tennis Bld	TENNIS
 THAYER	South Thayer Building	THAYER	202 South Thayer Building
@@ -145,8 +141,8 @@ FXB	Francois-Xavier Bagnoud Building	FXB
 GGBL	George G. (GG) Brown Laboratories	GGBL	GG Brown
 IOE	Industrial And Operations Engineering Building	IOE	Industrial And Operations Engineering	Industrial Engineering	Operations Engineering
 KRAUS	KRAUS	Edward Henry Kraus Building (Natural Science)	Natural Science
-LEC	Robert H. Lurie Engineering Center	LEC
-MMPL	MMPL	Michigan Memorial Phoenix Project Laboratory	Phoenix Project
+Lurie	Robert H. Lurie Engineering Center	LEC LBME	Lurie Biomedical Engineering Center	LBME	Lurie Ann And Robert H Biomedical Engineering Bld
+MMPL	Michigan Memorial Phoenix Project Laborotary	Phoenix Project	Phoenix Memorial Building
 NAME	Naval Architecture And Marine Engineering	Naval Architecture and Marine Engineering Building
 NCFAM	Northwood Community Center	NCFAM
 NCSW	Engineering Programs Building	NCSW    GFL
@@ -163,5 +159,6 @@ SRB	SRB	Space Research Building
 TRACK	Indoor Track Building	Indoor Track	Track Building
 WQUAD	West Quadrangle	WQUAD	West Quad
 BAITS	Vera Baits Housing	Baits II Ziwet House	ZIWET	Baits	COMAN	Baits II Coman House	Baits II Conger House	CONGER	Baits II Cross House	Baits I	EATON	Baits Vera I Eaton House	Baits II Thieme House	THIEME
-PALM    palmer commons  palmer filed    palmer  PALM
+PALM	palmer commons	palmer filed	palmer	PALM
+STAD	The Big House	STAD	Michigan Stadium	Stadium
 
